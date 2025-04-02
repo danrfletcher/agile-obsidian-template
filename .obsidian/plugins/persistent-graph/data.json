@@ -1,0 +1,95 @@
+{
+  "nodePositions": [
+    {
+      "id": "Complete Northcoders.md",
+      "x": 186.59365844726562,
+      "y": -320.76275634765625
+    },
+    {
+      "id": "Errors & Debugging.md",
+      "x": 132.97784423828125,
+      "y": -171.82676696777344
+    },
+    {
+      "id": "GitHub & Distributed Version Control.md",
+      "x": 89.29765319824219,
+      "y": 51.61482238769531
+    },
+    {
+      "id": "How to Break Down a Problem.md",
+      "x": 75.1062240600586,
+      "y": 197.53321838378906
+    },
+    {
+      "id": "Intro to CSS.md",
+      "x": -1.5553088188171387,
+      "y": -225.6121368408203
+    },
+    {
+      "id": "Intro to Git.md",
+      "x": -147.44412231445312,
+      "y": 142.0666961669922
+    },
+    {
+      "id": "Intro to HTML.md",
+      "x": -253.11453247070312,
+      "y": -224.21170043945312
+    },
+    {
+      "id": "Intro to Javascript Functions.md",
+      "x": 149.5749969482422,
+      "y": 309.25689697265625
+    },
+    {
+      "id": "Intro to Northcoders.md",
+      "x": -29.655176162719727,
+      "y": 358.812255859375
+    },
+    {
+      "id": "Intro to Regex.md",
+      "x": -45.71233367919922,
+      "y": -357.86883544921875
+    },
+    {
+      "id": "Northcoders Testing Practice.md",
+      "x": -106.47257232666016,
+      "y": -136.6160430908203
+    },
+    {
+      "id": "Northcoders Testing Seminar.md",
+      "x": -337.53125,
+      "y": -53.998626708984375
+    },
+    {
+      "id": "Pairing & Testing.md",
+      "x": -87.024658203125,
+      "y": 7.704074859619141
+    },
+    {
+      "id": "Programming Scope.md",
+      "x": -223.7063751220703,
+      "y": 325.5633239746094
+    },
+    {
+      "id": "Reading Documentation.md",
+      "x": 264.8702697753906,
+      "y": 30.703245162963867
+    },
+    {
+      "id": "Value & Reference.md",
+      "x": -316.457275390625,
+      "y": 99.90135192871094
+    },
+    {
+      "id": "module.exports & require in JS.md",
+      "x": 329.192138671875,
+      "y": 151.24603271484375
+    },
+    {
+      "id": "Northcoders.md",
+      "x": 324.25146484375,
+      "y": -115.60426330566406
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

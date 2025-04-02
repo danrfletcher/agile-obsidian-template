@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b4dbc6fe968c162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86acc7b0b67b2dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/Nueral/Team/Scott Fairnington.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scott Fairnington"
+            }
+          },
+          {
+            "id": "7e90cff0fafdbbdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/Nueral/Team/Cam Bloomfield.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cam Bloomfield"
+            }
+          },
+          {
+            "id": "b980e4d76721977c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/Nueral/Team/Dan Fletcher.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dan Fletcher"
+            }
+          },
+          {
+            "id": "5f5f5e8f30204754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/Nueral/Initiatives/Initiatives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initiatives"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51f5fb3ca4f274f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8247f2ea2b82cae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb5331527fc9ccd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4bb7b201ada52d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dbda6930fb6612c9",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "dd18aafc60d56f2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322
+  },
+  "right": {
+    "id": "de35894950d37f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "006d97d227f9218f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a6cdc86f7faa0e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a075dfda0b29fe4e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "a60e5c71d41578f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mission/Nueral/Initiatives/Initiatives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Initiatives"
+            }
+          },
+          {
+            "id": "1640b1fe66bf67d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mission/Nueral/Initiatives/Initiatives.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Initiatives"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "dbfolder:Create a new database table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false,
+      "homepage:Open homepage": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "system3-relay:Relay": false,
+      "cmdr:Show File History": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "5f5f5e8f30204754",
+  "lastOpenFiles": [
+    "Mission/Nueral/Docs/Rabat Rally Rampage Draft Plan.md",
+    "Mission/Nueral/Team/Scott Fairnington.md",
+    "Mission/Nueral/Team/Dan Fletcher.md",
+    "Mission/Nueral/Team/Cam Bloomfield.md",
+    "Mission/Nueral/Initiatives/Initiatives.md",
+    "Mission/Mission.md",
+    "Initiatives 47b3c7.md",
+    "Mission/Nueral/Priorities/Priorities.md",
+    "Mission/Nueral/Team/Test.md",
+    "Mission/Nueral/Dan Fletcher.md",
+    "Test.md",
+    "Priorities f251ae.md",
+    "OKRs.md",
+    "Mission/Lodger.md",
+    "Archive/Sponsorship Pitch.md",
+    "Mission/Nueral/Priorities.md",
+    "Mission/Nueral/Priorities/Vision.md",
+    "Mission/Nueral/Docs/Archive/The Freedom Tour.md",
+    "Mission/Nueral/Initiatives 9bb006",
+    "Mission/Nueral/Docs/Archive",
+    "Mission/Nueral/Priorities",
+    "Mission/Nueral/Initiatives/Untitled.md",
+    "Mission/Nueral/Docs/Untitled.md",
+    "Mission/The Freedom Tour.md",
+    "Mission/Nueral/Team",
+    "Mission/Nueral/Initiatives/Completed.md",
+    "Mission/Nueral/Initiatives",
+    "Mission/Nueral/Docs/Workflow States.md",
+    "Mission/Nueral/Docs/Templates/Waiting.md",
+    "Mission/Nueral/Docs/Templates/Pending.md",
+    "Mission/Nueral/Docs/Templates",
+    "Mission/Nueral/Templates",
+    "a.json",
+    "Mission/Nueral/Docs",
+    "Now/Rabat Rally Rampage 2025",
+    "Always/Nueral/CRM/Scott Fairnington/Untitled.canvas",
+    "Archive/Pasted image 20241111173627.png",
+    "Pasted image 20241111174550.png",
+    "Pasted image 20241111174351.png",
+    "Pasted image 20241111174225.png",
+    "Pasted image 20241111173930.png",
+    "Pasted image 20241111173834.png",
+    "Pasted image 20241111173644.png",
+    "Areas/Fitness/Meal Plan 1.jpeg",
+    "Areas/Diet/Meal Plan 1.jpeg",
+    "Untitled.canvas",
+    "Archive/Pasted image 20240215003704.png",
+    "Resources/Templates/Home.canvas",
+    "Test folder/Test folder.canvas",
+    "Archive/Untitled.canvas",
+    "Archive/Vision Map.canvas",
+    "Archive/Completed/Vision Map.canvas"
+  ]
+}

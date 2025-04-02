@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1c842eddbc5357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b5639f0d40ed25",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Mission/Nueral/Initiatives/Initiatives.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Initiatives)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29589819602ba3ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "712bbeb58be0110c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "979b4c3ab5f380cd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "03a21e97232aef14",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "17d2d0352b092958",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5ac4f06244545b17",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7b2020f2020573f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b43b8931ee7b0af",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "926fa9f7bdfcbe04",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9dc300de1a484160",
+        "type": "leaf",
+        "state": {
+          "type": "quiet-outline",
+          "state": {},
+          "icon": "lines-of-text",
+          "title": "Quiet Outline"
+        }
+      },
+      {
+        "id": "ba9930e037b3ba47",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "9ed0a884ad571872",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "system3-relay:Relay": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Show File History": false,
+      "obsidian-git:Open Git source control": false,
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "19b5639f0d40ed25",
+  "lastOpenFiles": [
+    "Priorities f251ae.md",
+    "Initiatives 47b3c7.md",
+    "[[Priorities f251ae.md",
+    "Archive/Templates/Dan Fletcher - Active.md",
+    "Mission/Nueral/Initiatives/Initiatives.md",
+    "Mission/Nueral/Priorities/Completed.md",
+    "Mission/Nueral/Priorities/Priorities.md",
+    "Untitled Kanban.md",
+    ".md",
+    "Mission/Nueral/Priorities",
+    "Mission/Nueral/Docs/Archive/The Freedom Tour.md",
+    "Mission/Nueral/Docs/Archive",
+    "Mission/Nueral/Team/Dan Fletcher.md",
+    "Mission/Mission.md",
+    "Teet/Teet.md",
+    "Teet/Drawing 2025-03-31 17.22.43.excalidraw",
+    "Teet/Drawing 2025-03-31 17.22.36.excalidraw",
+    "Teet/Drawing 2025-03-31 17.22.28.excalidraw",
+    "Teet/Drawing 2025-03-31 17.22.05.excalidraw",
+    "Teet",
+    "Elddis Crusader Superstorm Touring Caravan.md",
+    "OKRs.md",
+    "/Mission/Nueral/Team/Scott Fairnington.md",
+    "/Mission/Nueral/Team/Dan Fletcher.md",
+    "/Mission/Nueral/Team/Cam Bloomfield.md",
+    "/Mission/Nueral/Team",
+    "/Mission/Nueral/Initiatives/Initiatives.md",
+    "/Mission/Nueral/Initiatives",
+    "/Mission/Nueral/Docs/Notational Conventions.md",
+    "/Archive/Templates/Agile - Epic.md",
+    "Mission/Learning.md",
+    "Mission/Lodger.md",
+    "Archive/Notepad.md",
+    "Archive/Diary.md",
+    "Adhoc/Notepad.md",
+    "Archive/Templates/Target.md",
+    "Untitled.canvas",
+    "Archive/Pasted image 20240215003704.png",
+    "Screenshot_20240206_171724_Brave~3.jpg",
+    "Pasted image 20240117234508.png",
+    "Resources/Templates/Home.canvas",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231018093704.png",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231018090834.png",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231026090106.png",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231016095925.png",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231025090535.png",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231016090400.png",
+    "Mission/Learn to Code/Northcoders/Notes Screenshots/Pasted image 20231017093508.png",
+    "Archive/Templates/Home.canvas"
+  ]
+}

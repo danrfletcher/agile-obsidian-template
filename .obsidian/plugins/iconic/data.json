@@ -1,0 +1,52 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Archive/Diary.md": {
+      "icon": "lucide-pen-line"
+    },
+    "Archive/Pomodoros.md": {
+      "icon": "lucide-timer-reset"
+    },
+    "Archive/Reading.md": {
+      "icon": "lucide-book-text"
+    },
+    "Archive/Scrum.md": {
+      "icon": "lucide-fast-forward"
+    },
+    "Archive/To Do.md": {
+      "icon": "lucide-list-check"
+    },
+    "Archive/Whiteboard.excalidraw": {
+      "icon": "lucide-presentation",
+      "unsynced": [
+        "ae467cb239b6fc77",
+        "/storage/emulated/0/Notes",
+        "afce37bd8014ecd3",
+        "a8173c1dc03da209"
+      ]
+    }
+  },
+  "bookmarkIcons": {
+    "1729805026734": {
+      "icon": "lucide-list-ordered"
+    }
+  },
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}

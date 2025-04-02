@@ -1,0 +1,25 @@
+{
+  "sharedFolders": [
+    {
+      "guid": "ca9b3b13-d669-4759-9430-ad0df567daff",
+      "path": "Mission/Nueral",
+      "relay": "cce40877-429d-41aa-aa8b-a81ef862bf82",
+      "connect": true
+    }
+  ],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableDebugFileTag": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "debugging": false,
+  "enableDownloadOnAddToVault": false,
+  "enableUploadOnShare": false
+}
