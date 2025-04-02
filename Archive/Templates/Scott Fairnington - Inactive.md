@@ -1,0 +1,1 @@
+<mark class="inactive-scott-fairnington" style="background: #CACFD9A6;"><strong><a href="Scott Fairnington" class="internal-link">👋 @scottyfairno</a></strong></mark>

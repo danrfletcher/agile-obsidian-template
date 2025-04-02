@@ -1,0 +1,5 @@
+- [ ] <mark style="background: #CACFD9A6;"><strong>🎯 [OKR Name]</strong></mark> 🛫 [Start Date] 📅 [Proposed Deadline]
+	- **Key Results**
+		- [ ] 
+	- **Priorities**
+		- 
